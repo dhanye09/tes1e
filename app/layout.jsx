@@ -20,7 +20,7 @@ export default function RootLayout({children}) {
                     {children}
                 </main>
                 <footer className="text-center">
-                    [footer]
+                    Copyright &copy; 2023 by dhany_e09
                 </footer>
             </body>
         </html>
